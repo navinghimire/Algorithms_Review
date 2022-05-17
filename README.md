@@ -1,7 +1,7 @@
 # Algorithms_Review
 CTCI Interview Preparation in Javascript
 
-##How to Prepare?
+## How to Prepare?
 * Try solving on your own.
   * You are *mostly* on your own at the job. Think about **space** and **time** complexity.
 * Write on paper.
@@ -11,7 +11,7 @@ CTCI Interview Preparation in Javascript
 * Type paper code as is into a computer.
   * List all erros you made, avoid it in your interview. 
 
-##What You Need To Know?
+## What You Need To Know?
 *Absolute most haves*
 |Data Structure|Algorithms|Concepts|
 |:-----|----|-----|
