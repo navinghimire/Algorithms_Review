@@ -1,4 +1,4 @@
-# Algorithms_Review
+# Algorithms Review
 CTCI Interview Preparation in Javascript
 
 ## How to Prepare?
@@ -37,5 +37,10 @@ Hash Tables |
 ## Walking through a problem.
 ```mermaid 
   graph LR
-  1[1. Listen]-->2[2. Example]-->3[3. Brute Force]-->4[4. Optimize]-->5[5. Walk through]-->6[6. Implement]-->7[7. Test for BUD]
+  1[1. Listen]-->2[2. Example]-->3[3. Brute Force]-->4[4. Optimize using BUD]-->5[5. Walk through]-->6[6. Implement]-->7[7. Test]
+  BUD --> B[Bottlenecks]
+  BUD --> U[Unnecessary Work]
+  BUD --> D[Duplicate Work]
+  
+
 ```
